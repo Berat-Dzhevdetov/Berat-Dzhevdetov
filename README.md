@@ -7,7 +7,7 @@
 - 💬 Ask me about my experience
 - 🔍 Looking for remote job as intern/junior ASP.NET
 - ⚡ Fun fact: Backend by heart, Frontend by need
-- 📚 Courses: C# Fundamentals, C# Advanced, C# OOP, C# MSSQL, C# EntityFramework core, JS Advanced, JS Application in [SoftUni](https://softuni.bg/)
+- 📚 Courses: C# Fundamentals, C# Advanced, C# OOP, C# MSSQL, C# EntityFramework core, JS Advanced, JS Application at [SoftUni](https://softuni.bg/)
 - 🤓 Self-learned: PHP, MySQL, HTML5, CSS3  
 
 ### Contact with me at:
