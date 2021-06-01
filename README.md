@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on C# Web Server
-- 🌱 I’m currently learning C# Web
+- 🌱 I’m currently learning C# Web/ASP.NET Core
 - 💬 Ask me about my experience
 - 📫 How to reach me: https://www.linkedin.com/in/berat-yuseinov-bbb9b820b
 - ⚡ Fun fact: Backend by heart, Frontend by need
