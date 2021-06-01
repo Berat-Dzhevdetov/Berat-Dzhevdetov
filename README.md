@@ -1,7 +1,5 @@
 ### Hi there my name is Berat Dzhevdetov and I'm 17yo (soon 18)👋
 
-
-
 - 🔭 I’m currently working on C# Web Server
 - 🌱 I’m currently learning C# Web/ASP.NET Core
 - 💬 Ask me about my experience
