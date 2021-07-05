@@ -1,7 +1,7 @@
 ### Hi there my name is Berat Dzhevdetov and I'm 17yo (soon 18)👋
 
-- 🔭 I’m currently working on C# Web Server
-- 🌱 I’m currently learning C# Web/ASP.NET Core
+- 🔭 I’m currently working on DeemZ (online learning platform)
+- 🌱 I’m currently learning ASP.NET Core
 - 💬 Ask me about my experience
 - 🔍 Looking for remote job as intern/junior ASP.NET
 - ⚡ Fun fact: Backend by heart, Frontend by need; Love to implement everything from scratch
