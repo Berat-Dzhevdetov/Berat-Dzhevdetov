@@ -1,4 +1,4 @@
-### Hi there my name is Berat Dzhevdetov and I'm 17yo (soon 18)👋
+### Hi there my name is Berat Dzhevdetov and I'm 18yo👋
 
 - 🔭 I’m currently working on DeemZ (online learning platform)
 - 🌱 I’m currently learning ASP.NET Core
