@@ -1,9 +1,6 @@
-### Hi there my name is Berat Dzhevdetov and I'm 18yo👋
+### Hi there, my name is Berat Dzhevdetov and I'm 18yo👋
 
-- 🔭 I’m currently working on [DeemZ-Platform](https://github.com/Berat-Dzhevdetov/DeemZ) (online learning platform)
-- 🌱 I’m currently learning ASP.NET Core
 - 💬 Ask me about my experience
-- 🔍 Looking for remote job as intern/junior ASP.NET
 - ⚡ Fun fact: Backend by heart, Frontend by need; Love to implement everything from scratch
 - 📚 Courses: C# Fundamentals, C# Advanced, C# OOP, C# MSSQL, C# EntityFramework core, JS Advanced, JS Application, C# Web Basics and ASP.NET Core at [SoftUni](https://softuni.bg/)
 - 🤓 Self-learned: PHP, MySQL, HTML5, CSS3  
