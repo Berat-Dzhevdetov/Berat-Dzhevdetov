@@ -1,16 +1,15 @@
-### Hi there, my name is Berat Dzhevdetov and I'm 18yo👋
+### Hi there, my name is Berat Dzhevdetov and I'm 19yo👋
 
 - 💬 Ask me about my experience
 - ⚡ Fun fact: Backend by heart, Frontend by need; Love to implement everything from scratch
 - 📚 Courses: C# Fundamentals, C# Advanced, C# OOP, C# MSSQL, C# EntityFramework core, JS Advanced, JS Application, C# Web Basics and ASP.NET Core at [SoftUni](https://softuni.bg/)
 - 🤓 Self-learned: PHP, MySQL, HTML5, CSS3  
-
+- 🏢 - Learn from work: Sitefinity
 
 ### Contact with me at:
 <a style="text-decoration: none;" href="https://www.linkedin.com/in/berat-yuseinov-bbb9b820b" rel="nofollow">
   <img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="berat-yuseinov-bbb9b820b" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
-<a style="text-decoration: none;" href="https://www.facebook.com/zdr.bepce.kak.si" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/68395a7b109c74c379a2e19b46e78a7df724c05e8a35df5b2d4a85d3b6cb5369/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f66616365626f6f6b2e737667" alt="Берат Юсеинов" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;"></a>
 
 ### Languages and Tools:
 
@@ -38,6 +37,9 @@
 </a>
 <a style="text-decoration: none;" href="https://www.php.net/">
   <img src="https://pngimg.com/uploads/php/php_PNG20.png" alt="php" width="40" height="40" data-canonical-src="https://www.php.net/" style="max-width:100%;"></img>
+</a>
+<a style="text-decoration: none;" href="https://www.progress.com/sitefinity-cms">
+  <img src="https://www.crmsynx.com/images/default-source/default-album/progress-sitefinity-logo.png" alt="Sitefinity" width="40" height="40" data-canonical-src="https://www.progress.com/sitefinity-cms" style="max-width:100%;"></img>
 </a>
 </p>
   
