@@ -38,10 +38,13 @@
 <a style="text-decoration: none;" href="https://www.php.net/">
   <img src="https://pngimg.com/uploads/php/php_PNG20.png" alt="php" width="40" height="40" data-canonical-src="https://www.php.net/" style="max-width:100%;"></img>
 </a>
+
+</p>
+
+### CMSs:
 <a style="text-decoration: none;" href="https://www.progress.com/sitefinity-cms">
   <img src="https://www.crmsynx.com/images/default-source/default-album/progress-sitefinity-logo.png" alt="Sitefinity" width="40" height="40" data-canonical-src="https://www.progress.com/sitefinity-cms" style="max-width:100%;"></img>
 </a>
-</p>
   
   ![Berat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berat-Dzhevdetov&theme=dark)
   
