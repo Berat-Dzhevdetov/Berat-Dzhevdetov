@@ -3,7 +3,7 @@
 - 💬 Ask me about my experience
 - ⚡ Fun fact: Backend by heart, Frontend by need; Love to implement everything from scratch
 - 📚 Courses: C# Fundamentals, C# Advanced, C# OOP, C# MSSQL, C# EntityFramework core, JS Advanced, JS Application, C# Web Basics and ASP.NET Core at [SoftUni](https://softuni.bg/)
-- 🤓 Self-learned: PHP, MySQL, HTML5, CSS3  
+- 🤓 Self-learned: PHP, MySQL, HTML5, CSS3, ReactJS
 - 🏢 - Learn from work: Sitefinity
 
 ### Contact with me at:
@@ -38,7 +38,9 @@
 <a style="text-decoration: none;" href="https://www.php.net/">
   <img src="https://pngimg.com/uploads/php/php_PNG20.png" alt="php" width="40" height="40" data-canonical-src="https://www.php.net/" style="max-width:100%;"></img>
 </a>
-
+<a style="text-decoration: none;" href="https://reactjs.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS" width="40" height="40" data-canonical-src="https://reactjs.org/" style="max-width:100%;"></img>
+</a>
 </p>
 
 ### CMSs:
