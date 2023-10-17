@@ -1,22 +1,4 @@
-<script>
-  function yearsPassedSince2003() {
-  // Define the target date (August 14, 2003)
-  const targetDate = new Date('2003-08-14');
-  
-  // Get the current date
-  const currentDate = new Date();
-
-  // Calculate the difference in milliseconds
-  const differenceInMilliseconds = currentDate - targetDate;
-
-  // Convert milliseconds to years
-  const millisecondsInAYear = 1000 * 60 * 60 * 24 * 365.25; // Account for leap years
-  const yearsPassed = differenceInMilliseconds / millisecondsInAYear;
-
-  return Math.floor(yearsPassed); // Round down to the nearest whole year
-}
-</script>
-### Hi there, my name is Berat Dzhevdetov and I'm yearsPassedSince2003() yo👋
+### Hi there, my name is Berat Dzhevdetov and I'm 20 yo👋
 
 - 💬 Ask me about my experience
 - ⚡ Fun fact: Backend by heart, Frontend by need; Love to implement everything from scratch
