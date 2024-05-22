@@ -50,8 +50,13 @@
 <a style="text-decoration: none;" href="https://www.progress.com/sitefinity-cms">
   <img src="https://www.crmsynx.com/images/default-source/default-album/progress-sitefinity-logo.png" alt="Sitefinity" width="40" height="40" data-canonical-src="https://www.progress.com/sitefinity-cms" style="max-width:100%;"></img>
 </a>
-  
-  ![Berat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berat-Dzhevdetov&theme=dark)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berat-Dzhevdetov&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
+
+### GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Berat-Dzhevdetov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokenov&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
+
+### GitHub Trophies
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Berat-Dzhevdetov&rank=-C,-B" alt="GitHub Trophies" />
